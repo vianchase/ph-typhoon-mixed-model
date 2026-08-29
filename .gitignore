@@ -1,0 +1,10 @@
+# EM-DAT data files -- not redistributable per EM-DAT Terms of Use
+# (register at public.emdat.be to get your own raw export, then run
+# data/clean_data.py to regenerate the cleaned file locally)
+data/emdat_raw.csv
+data/emdat_philippines_clean.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
